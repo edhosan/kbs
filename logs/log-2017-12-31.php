@@ -1,0 +1,13 @@
+ERROR - 2017-12-31 19:05:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOINs analisis_parameter z ON r.id_parameter = z.id WHERE r.id_subjek = '1' AND ' at line 1 - Invalid query: SELECT SUM(i.bobot * nilai) as jml FROM analisis_respon r LEFT JOIN analisis_indikator i ON r.id_indikator = i.id LEFT JOINs analisis_parameter z ON r.id_parameter = z.id WHERE r.id_subjek = '1' AND i.act_analisis=1 AND r.id_periode='3'
+ERROR - 2017-12-31 19:08:55 --> 404 Page Not Found: Assets/images
+ERROR - 2017-12-31 19:08:55 --> Severity: Warning --> include(C:\xampp\htdocs\opensid\donjo-app\views\errors\html\error_404.php): failed to open stream: No such file or directory C:\xampp\htdocs\opensid\system\core\Exceptions.php 182
+ERROR - 2017-12-31 19:08:55 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\opensid\donjo-app\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\opensid\system\core\Exceptions.php 182
+ERROR - 2017-12-31 20:05:06 --> 404 Page Not Found: Assets/images
+ERROR - 2017-12-31 20:05:06 --> Severity: Warning --> include(C:\xampp\htdocs\opensid\donjo-app\views\errors\html\error_404.php): failed to open stream: No such file or directory C:\xampp\htdocs\opensid\system\core\Exceptions.php 182
+ERROR - 2017-12-31 20:05:06 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\opensid\donjo-app\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\opensid\system\core\Exceptions.php 182
+ERROR - 2017-12-31 20:06:09 --> 404 Page Not Found: Hom_desa/assets
+ERROR - 2017-12-31 20:06:09 --> Severity: Warning --> include(C:\xampp\htdocs\opensid\donjo-app\views\errors\html\error_404.php): failed to open stream: No such file or directory C:\xampp\htdocs\opensid\system\core\Exceptions.php 182
+ERROR - 2017-12-31 20:06:09 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\opensid\donjo-app\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\opensid\system\core\Exceptions.php 182
+ERROR - 2017-12-31 20:13:41 --> 404 Page Not Found: Assets/images
+ERROR - 2017-12-31 20:13:41 --> Severity: Warning --> include(C:\xampp\htdocs\opensid\donjo-app\views\errors\html\error_404.php): failed to open stream: No such file or directory C:\xampp\htdocs\opensid\system\core\Exceptions.php 182
+ERROR - 2017-12-31 20:13:41 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\opensid\donjo-app\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\opensid\system\core\Exceptions.php 182
